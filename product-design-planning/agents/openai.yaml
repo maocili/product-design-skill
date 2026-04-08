@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Design Planning"
+  short_description: "Create execution-ready MVP planning docs"
+  default_prompt: "Use $product-design-planning to turn this idea into an MVP plan with VPC-based unique value, platform recommendation, and a first validation cycle."
